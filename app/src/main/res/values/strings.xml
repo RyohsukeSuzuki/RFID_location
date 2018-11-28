@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ロケーションを登録します</string>
+    <string name="messageText1">ロケーション</string>
+    <string name="imagelocation">TODO</string>
+    <string name="imageNumber">TODO</string>
+    <string name="nownumber">現品票番号</string>
+    <string name="register_button">登録</string>
+</resources>
